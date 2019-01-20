@@ -7,7 +7,8 @@ Je ping l&#39;hôte et la vm pour voir si ils communiquent. Ils communiquent com
 
 Pour afficher la table de routage, on tape ip route.
 
-Nous obtenons ceci. ![alt text](https://github.com/PierreYnov/CEBERIO_TP3/blob/master/1.png)
+Nous obtenons ceci. 
+![alt text](https://github.com/PierreYnov/CEBERIO_TP3/blob/master/1.png)
 
 
 La route default a été mise en place par un DHCP. La route connectée (scope link) a été ajoutée automatiquement par le noyau (proto kernel) lors de la configuration de l&#39;adresse IP sur l&#39;interface enp0s3.
