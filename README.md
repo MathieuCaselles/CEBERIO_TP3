@@ -59,7 +59,7 @@ Je vois que «  sshd » ecoute sur le port 22
 
 ## 2. SSH
 
-Je lance putty et je mets l&#39;ip de ma vm 1932.168.127.10 , je laisse en ssh par défaut et je lance. Je tape mon login et mon mot de passe et je suis enfin connecté en ssh
+Je lance putty et je mets l&#39;ip de ma vm 192.168.127.10 , je laisse en ssh par défaut et je lance. Je tape mon login et mon mot de passe et je suis enfin connecté en ssh
 
 ![alt text](https://github.com/PierreYnov/CEBERIO_TP3/blob/master/7.png)
 
