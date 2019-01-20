@@ -77,7 +77,7 @@ J&#39;autorise avec le firewall la connexion sur le port 2222 en tapant firewall
 
 Je réessaie avec putty (car j&#39;ai Windows 8.1 et le ssh ne fonctionne pas sur le PowerShell) et cette fois ci, j&#39;arrive à me connecter
 
-**B. **** netcat**
+**B. **netcat**
 
 Je tape sur la console de ma vm : ncat –l –p 5454
 
