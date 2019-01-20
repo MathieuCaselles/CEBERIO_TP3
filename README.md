@@ -105,7 +105,7 @@ Je ping le PC 2 matthieu et je suis bien répondu
 
 ![alt text](https://github.com/PierreYnov/CEBERIO_TP3/blob/master/10.png)
 
-Pour changer l&#39;ip dans CentOS je tape nano ** /etc/sysconfig/network-scripts/ifcfg-enp0s8**
+Pour changer l&#39;ip dans CentOS je tape nano /etc/sysconfig/network-scripts/ifcfg-enp0s8
 
 ![alt text](https://github.com/PierreYnov/CEBERIO_TP3/blob/master/11.png)
 
